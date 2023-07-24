@@ -1,0 +1,1 @@
+El siguiente codgo crea un Punto de acceso Wifi con un servidor local en el puerto Default (192.168.4.1) donde en la raiz exponse un template html para controlar el puerto digital D0 ( pin 16.)
